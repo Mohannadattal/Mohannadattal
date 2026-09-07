@@ -37,5 +37,6 @@ Selected fullstack and web application projects will be featured here.
 
 ## 📫 Contact
 
-📍 Duisburg, Germany  
-📧 mohannadattal85@web.de
+📍 Duisburg, Germany
+
+[![Email](https://img.shields.io/badge/Email-mohannadattal85%40web.de-0078D4?style=flat&logo=maildotru&logoColor=white)](mailto:mohannadattal85@web.de)
