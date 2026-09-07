@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohannad Attal 👋
 
-<!--
-**Mohannadattal/Mohannadattal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Software Developer
 
-Here are some ideas to get you started:
+I'm a Fullstack Software Developer based in Duisburg, Germany, with experience in building and maintaining modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is on fullstack development using **Java, Spring Boot, Node.js, Angular, and React**.
+
+## 🛠️ Tech Stack
+
+**Backend**  
+Java · Spring Boot · Node.js · Python
+
+**Frontend**  
+Angular · React · JavaScript · Angular Material
+
+**Databases**  
+MySQL · MongoDB · Firebase
+
+**Tools**  
+Docker · Git · GitHub · Webpack
+
+## 🚀 Featured Projects
+
+I'm currently organizing and documenting my main software development projects.  
+Selected fullstack and web application projects will be featured here.
+
+## 📫 Contact
+
+📍 Duisburg, Germany  
+📧 mohannadattal85@web.de
